@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Business Opportunity"
+permalink: /business_opportunity.html
+---
+
 # TECH 565 Business Opportunity Outline
 
 ---
