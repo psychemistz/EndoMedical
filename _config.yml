@@ -4,6 +4,6 @@ theme: jekyll-theme-minimal
 
 nav:
   - title: "Market Research"
-    url: /
+    url: /index.html
   - title: "Business Opportunity"
     url: /business_opportunity.html
