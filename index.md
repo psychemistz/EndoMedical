@@ -1,4 +1,4 @@
-# Market Feasibility of a Dedicated Transcaval Closure Device (Endo Medical Corp.)
+# Market Feasibility of a Dedicated Transcaval Closure Device
 
 ## Market Scope (U.S. & Global)
 
