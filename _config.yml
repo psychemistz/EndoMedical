@@ -1,0 +1,10 @@
+title: "Endo Medlcal"
+description: "Market Research and Business Opportunity"
+theme: jekyll-theme-minimal
+
+# Navigation items
+nav:
+  - title: "Market Research"
+    url: /market_research.html
+  - title: "Business Opportunity"
+    url: /business_opportunity.html
