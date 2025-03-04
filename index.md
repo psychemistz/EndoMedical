@@ -1,8 +1,4 @@
-Below is the full Markdown content. You can copy it into a text editor and save it as `market_research.md`.
-
----
-
-# Market Feasibility of a Dedicated Transcaval Closure Device
+# Market Feasibility of a Dedicated Transcaval Closure Device (Endo Medical Corp.)
 
 ## Market Scope (U.S. & Global)
 
