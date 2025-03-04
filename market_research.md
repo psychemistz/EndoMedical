@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Market Research"
+permalink: /market_research.html
+---
+
 # Market Feasibility of a Dedicated Transcaval Closure Device
 
 ## Market Scope (U.S. & Global)
