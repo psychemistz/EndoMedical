@@ -14,7 +14,7 @@ permalink: /business_opportunity.html
 
 Our technology is a **dedicated transcaval closure device** engineered to close the aorto-caval tract created during transcatheter aortic valve replacement (TAVR) in patients with inadequate femoral access. Unlike repurposed nitinol occluders, our device is purpose-built to provide secure, hemostatic closure, minimizing complications such as bleeding and device “pull-through.” It is designed for optimal deliverability through a 14–16 Fr sheath, precisely targeting the unique anatomy of the aorto-caval space.
 
-**NIH Abstract:(tab-4543)[https://www.techtransfer.nih.gov/tech/tab-4543]**  
+**NIH Abstract: [tab-4543](https://www.techtransfer.nih.gov/tech/tab-4543)**  
 "This technology includes a device to close a hole in the wall of a large blood vessel or cardiac chamber from the inside out, delivered over a guidewire and through a catheter or sheath. First, the proximal portion deploys within the vessel or chamber and is advanced over a guidewire to oppose the wall and seal the hole. Second, the distal portion self-assembles outside the vessel or chamber upon withdrawal of the guidewire. Deployment of the distal portion anchors the device securely in place."
 
 ---
