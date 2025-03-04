@@ -7,7 +7,10 @@ permalink: /business_opportunity.html
 # TECH 565 Business Opportunity Outline
 
 ---
+
 [Human Reviewed Business Opportunity Outline](https://docs.google.com/document/d/1N60udmEDGZzHOlRoWQudToDWRapCTlKhB-7UKKfWn-Y/edit?tab=t.0)
+
+---
 
 ## 1. Describe Your Technology
 
