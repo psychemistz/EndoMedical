@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Market Research"
-permalink: /market_research.html
+permalink: /
 ---
 
 # Market Feasibility of a Dedicated Transcaval Closure Device
