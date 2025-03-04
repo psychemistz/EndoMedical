@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Pitch Scenario"
+permalink: /pitch_scenario.html
+---
+
 # Endo Medical – Transforming Transcaval Access with a Dedicated Closure Device
 
 ## Introduction
