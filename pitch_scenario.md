@@ -3,6 +3,12 @@ layout: default
 title: "Pitch Scenario"
 permalink: /pitch_scenario.html
 ---
+<style>
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
 
 # Endo Medical – Transforming Transcaval Access with a Dedicated Closure Device
 
