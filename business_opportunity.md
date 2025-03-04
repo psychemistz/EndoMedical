@@ -129,6 +129,7 @@ Given our competitive advantages and early clinical success, we aim to capture a
 
 - **Major Medtech Firms:** Medtronic, Abbott, Boston Scientific, and Edwards Lifesciences.
 - **Venture Capital Firms:** OrbiMed, Sofinnova, and Deerfield Management, known for investments in high-impact medtech innovations.
+- **Comparative Deal Sheet:** [Document](https://docs.google.com/spreadsheets/d/1G9W6KCu77vRU6exf6VhhXe4rSoWAvx5Q4CAk6I21xxc/edit?gid=0#gid=0)
 
 ---
 
